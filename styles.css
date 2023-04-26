@@ -222,6 +222,9 @@ footer .container a {
     .navbar {
         margin:0 2rem;
     }
+    main {
+        margin:0 1rem;
+    }
     .about-area, .services-area, .skills-area, .featured-wk, footer {
         margin:6rem 0;
     }
@@ -236,7 +239,7 @@ footer .container a {
 
 @media (max-width:768px) {
         main, .navbar {
-            margin:0 1rem;
+            margin:0 2rem;
         }
         .site-banner img .about-area img {
             min-width:450px;
