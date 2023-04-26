@@ -254,7 +254,7 @@ footer .container a {
 
 @media (max-width:992px) {
         main, .navbar {
-            margin:0 2rem;
+            margin:0 1rem;
         }
         .experience-area {
             margin:2rem 0;
