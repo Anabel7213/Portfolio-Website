@@ -236,7 +236,7 @@ footer .container a {
 
 @media (max-width:768px) {
         main, .navbar {
-            margin:0 2rem;
+            margin:0 1rem;
         }
         .site-banner img .about-area img {
             min-width:450px;
